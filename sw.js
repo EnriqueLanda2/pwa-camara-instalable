@@ -1,4 +1,4 @@
-const CACHE_NAME = 'camara-v3';
+const CACHE_NAME = 'camara-v4';
 const STATIC_FILES = [
   './',
   './index.html',
